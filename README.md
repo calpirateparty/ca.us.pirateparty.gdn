@@ -1,2 +1,2 @@
-# CaliforniaPirates
-a portal for California pirates
+# California Pirates
+a portal for pirates in California, USA
